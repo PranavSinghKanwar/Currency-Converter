@@ -1,3 +1,5 @@
+Created a Currency Converter App that uses an API to provide real-time conversion rates for all the available currencies. Incorporated the use of React Hooks in it and also, defined and used a custom hook in React to make this project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
